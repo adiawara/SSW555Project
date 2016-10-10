@@ -1,0 +1,91 @@
+
+Hello everybody here is Aboubacar Diawara presenting his GEDCOM file.
+
+My Family
+
+Plain text downloaded by Aboubacar Diawara on 26 Sep 2016.
+
+This file should be viewed as Unicode (UTF-8) character encoding.
+
+Created by Family Echo - http://www.familyecho.com/
+
+----------------------------------------------------------------------------
+
+Full name:          Massia Conde
+Gender:             Female
+Partner:            Aboubacar Diawara
+Birth date:         1 Jan 1900
+
+----------------------------------------------------------------------------
+
+Full name:          Lamine Diakite
+Gender:             Male
+Partner:            Mariama Kaba
+Birth date:         1 Jan 1920
+
+----------------------------------------------------------------------------
+
+Full name:          Tiranke Diakite
+Gender:             Female
+Mother:             Mariama Kaba
+Father:             Lamine Diakite
+Partner:            Bakary Diawara
+Birth date:         1 Jan 1956
+
+----------------------------------------------------------------------------
+
+Full name:          Aboubacar Diawara
+Gender:             Male
+Partner:            Massia Conde
+Birth date:         1 Jan 1880
+
+----------------------------------------------------------------------------
+
+Full name:          Aboubacar Diawara
+Gender:             Male
+Mother:             Tiranke Diakite
+Father:             Bakary Diawara
+Birth date:         1 Jan 1974
+
+----------------------------------------------------------------------------
+
+Full name:          Awa Diawara
+Gender:             Female
+Mother:             Fanta Traore
+Father:             Bakary Diawara
+Birth date:         1 Jan 1970
+
+----------------------------------------------------------------------------
+
+Full name:          Bakary Diawara
+Gender:             Male
+Mother:             Massia Conde
+Father:             Aboubacar Diawara
+Partner:            Tiranke Diakite
+Late partner:       Fanta Traore
+Birth date:         1 Jan 1934
+
+----------------------------------------------------------------------------
+
+Full name:          Mariama Diawara
+Gender:             Female
+Mother:             Tiranke Diakite
+Father:             Bakary Diawara
+Birth date:         22 May 1985
+
+----------------------------------------------------------------------------
+
+Full name:          Mariama Kaba
+Gender:             Female
+Partner:            Lamine Diakite
+Birth date:         1 Jan 1926
+
+----------------------------------------------------------------------------
+
+Full name:          Fanta Traore
+Gender:             Female (deceased)
+Partner:            Bakary Diawara
+Birth date:         1 Jan 1950
+
+----------------------------------------------------------------------------
+

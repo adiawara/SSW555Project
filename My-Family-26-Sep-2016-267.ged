@@ -1,0 +1,129 @@
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 26 SEP 2016
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Aboubacar Diawara
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Aboubacar /Diawara/
+2 GIVN Aboubacar
+2 SURN Diawara
+2 _MARNM Diawara
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1974
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Bakary /Diawara/
+2 GIVN Bakary
+2 SURN Diawara
+2 _MARNM Diawara
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1934
+1 FAMS @F1@
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I3@ INDI
+1 NAME Tiranke /Diakite/
+2 GIVN Tiranke
+2 SURN Diakite
+2 _MARNM Diakite
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1956
+1 FAMS @F1@
+1 FAMC @F4@
+0 @I4@ INDI
+1 NAME Lamine /Diakite/
+2 GIVN Lamine
+2 SURN Diakite
+2 _MARNM Diakite
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1920
+1 FAMS @F4@
+0 @I5@ INDI
+1 NAME Mariama /Kaba/
+2 GIVN Mariama
+2 SURN Kaba
+2 _MARNM Kaba
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1926
+1 FAMS @F4@
+0 @I6@ INDI
+1 NAME Aboubacar /Diawara/
+2 GIVN Aboubacar
+2 SURN Diawara
+2 _MARNM Diawara
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1880
+1 FAMS @F3@
+0 @I7@ INDI
+1 NAME Massia /Conde/
+2 GIVN Massia
+2 SURN Conde
+2 _MARNM Conde
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1900
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Fanta /Traore/
+2 GIVN Fanta
+2 SURN Traore
+2 _MARNM Traore
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1950
+1 DEAT Y
+1 FAMS @F2@
+0 @I9@ INDI
+1 NAME Awa /Diawara/
+2 GIVN Awa
+2 SURN Diawara
+2 _MARNM Diawara
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1970
+1 FAMC @F2@
+0 @I10@ INDI
+1 NAME Mariama /Diawara/
+2 GIVN Mariama
+2 SURN Diawara
+2 _MARNM Diawara
+1 SEX F
+1 BIRT
+2 DATE 22 MAY 1985
+1 FAMC @F1@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHIL @I10@
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I8@
+1 CHIL @I9@
+1 _CURRENT N
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I2@
+1 _CURRENT Y
+0 @F4@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I3@
+1 _CURRENT Y
+0 TRLR

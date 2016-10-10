@@ -1,0 +1,525 @@
+                          ~Author Aboubacar Diawara....Student at Stevens Institute of Technology~
+                                                                     Prof. Eins. Richard 
+
+
+
+                                    A short program reading and printing each line of a GEDCOM file. 
+       Printing the level number and  the tag of each line that has a valid tag for our project, or prints "Invalid tag" 
+ Printing each line of gedcom file followed by its level number and its tag 
+ line is:  0 HEAD
+ Level number is:   0
+ Tag is:   HEAD 
+
+ line is:  1 SOUR Family Echo
+ Level number is:   1
+invalid tag 
+
+ line is:  2 WWW http://www.familyecho.com/
+ Level number is:   2
+invalid tag 
+
+ line is:  1 FILE My Family
+ Level number is:   1
+invalid tag 
+
+ line is:  1 DATE 26 SEP 2016
+ Level number is:   1
+ Tag is:   DATE 
+
+ line is:  1 DEST ANSTFILE
+ Level number is:   1
+invalid tag 
+
+ line is:  1 GEDC
+ Level number is:   1
+invalid tag 
+
+ line is:  2 VERS 5.5.1
+ Level number is:   2
+invalid tag 
+
+ line is:  2 FORM LINEAGE-LINKED
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SUBM @I1@
+ Level number is:   1
+invalid tag 
+
+ line is:  2 NAME Aboubacar Diawara
+ Level number is:   2
+ Tag is:   NAME 
+
+ line is:  1 SUBN
+ Level number is:   1
+invalid tag 
+
+ line is:  1 CHAR UTF-8
+ Level number is:   1
+invalid tag 
+
+ line is:  0 @I1@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Aboubacar /Diawara/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Aboubacar
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX M
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1974
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMC @F1@
+ Level number is:   1
+ Tag is:   FAMC 
+
+ line is:  0 @I2@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Bakary /Diawara/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Bakary
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX M
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1934
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMS @F1@
+ Level number is:   1
+ Tag is:   FAMS 
+
+ line is:  1 FAMS @F2@
+ Level number is:   1
+ Tag is:   FAMS 
+
+ line is:  1 FAMC @F3@
+ Level number is:   1
+ Tag is:   FAMC 
+
+ line is:  0 @I3@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Tiranke /Diakite/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Tiranke
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Diakite
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Diakite
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX F
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1956
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMS @F1@
+ Level number is:   1
+ Tag is:   FAMS 
+
+ line is:  1 FAMC @F4@
+ Level number is:   1
+ Tag is:   FAMC 
+
+ line is:  0 @I4@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Lamine /Diakite/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Lamine
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Diakite
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Diakite
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX M
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1920
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMS @F4@
+ Level number is:   1
+ Tag is:   FAMS 
+
+ line is:  0 @I5@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Mariama /Kaba/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Mariama
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Kaba
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Kaba
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX F
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1926
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMS @F4@
+ Level number is:   1
+ Tag is:   FAMS 
+
+ line is:  0 @I6@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Aboubacar /Diawara/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Aboubacar
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX M
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1880
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMS @F3@
+ Level number is:   1
+ Tag is:   FAMS 
+
+ line is:  0 @I7@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Massia /Conde/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Massia
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Conde
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Conde
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX F
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1900
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMS @F3@
+ Level number is:   1
+ Tag is:   FAMS 
+
+ line is:  0 @I8@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Fanta /Traore/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Fanta
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Traore
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Traore
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX F
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1950
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 DEAT Y
+ Level number is:   1
+ Tag is:   DEAT 
+
+ line is:  1 FAMS @F2@
+ Level number is:   1
+ Tag is:   FAMS 
+
+ line is:  0 @I9@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Awa /Diawara/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Awa
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX F
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 1 JAN 1970
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMC @F2@
+ Level number is:   1
+ Tag is:   FAMC 
+
+ line is:  0 @I10@ INDI
+ Level number is:   0
+invalid tag 
+
+ line is:  1 NAME Mariama /Diawara/
+ Level number is:   1
+ Tag is:   NAME 
+
+ line is:  2 GIVN Mariama
+ Level number is:   2
+invalid tag 
+
+ line is:  2 SURN Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  2 _MARNM Diawara
+ Level number is:   2
+invalid tag 
+
+ line is:  1 SEX F
+ Level number is:   1
+ Tag is:   SEX 
+
+ line is:  1 BIRT
+ Level number is:   1
+ Tag is:   BIRT 
+
+ line is:  2 DATE 22 MAY 1985
+ Level number is:   2
+ Tag is:   DATE 
+
+ line is:  1 FAMC @F1@
+ Level number is:   1
+ Tag is:   FAMC 
+
+ line is:  0 @F1@ FAM
+ Level number is:   0
+invalid tag 
+
+ line is:  1 HUSB @I2@
+ Level number is:   1
+ Tag is:   HUSB 
+
+ line is:  1 WIFE @I3@
+ Level number is:   1
+ Tag is:   WIFE 
+
+ line is:  1 CHIL @I1@
+ Level number is:   1
+ Tag is:   CHIL 
+
+ line is:  1 CHIL @I10@
+ Level number is:   1
+ Tag is:   CHIL 
+
+ line is:  1 _CURRENT Y
+ Level number is:   1
+invalid tag 
+
+ line is:  0 @F2@ FAM
+ Level number is:   0
+invalid tag 
+
+ line is:  1 HUSB @I2@
+ Level number is:   1
+ Tag is:   HUSB 
+
+ line is:  1 WIFE @I8@
+ Level number is:   1
+ Tag is:   WIFE 
+
+ line is:  1 CHIL @I9@
+ Level number is:   1
+ Tag is:   CHIL 
+
+ line is:  1 _CURRENT N
+ Level number is:   1
+invalid tag 
+
+ line is:  0 @F3@ FAM
+ Level number is:   0
+invalid tag 
+
+ line is:  1 HUSB @I6@
+ Level number is:   1
+ Tag is:   HUSB 
+
+ line is:  1 WIFE @I7@
+ Level number is:   1
+ Tag is:   WIFE 
+
+ line is:  1 CHIL @I2@
+ Level number is:   1
+ Tag is:   CHIL 
+
+ line is:  1 _CURRENT Y
+ Level number is:   1
+invalid tag 
+
+ line is:  0 @F4@ FAM
+ Level number is:   0
+invalid tag 
+
+ line is:  1 HUSB @I4@
+ Level number is:   1
+ Tag is:   HUSB 
+
+ line is:  1 WIFE @I5@
+ Level number is:   1
+ Tag is:   WIFE 
+
+ line is:  1 CHIL @I3@
+ Level number is:   1
+ Tag is:   CHIL 
+
+ line is:  1 _CURRENT Y
+ Level number is:   1
+invalid tag 
+
+ line is:  0 TRLR
+ Level number is:   0
+ Tag is:   TRLR 
+
+>>> 
